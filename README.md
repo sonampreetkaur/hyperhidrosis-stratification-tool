@@ -23,3 +23,6 @@ Patients with hyperhidrosis often face delayed access to correct clinical care d
 1. Open the code file inside your [Google Colab Workspace](https://google.com).
 2. Execute the notebook cell to launch the interactive command-line interface.
 3. Input your clinical metrics to generate your personalized Patient Stratification Analysis Matrix graph.
+
+## Statement of Authorship and tools used
+The conceptual framework, clinical triage logic, override thresholds and structural flowcharts of this application were originally engineered by me to address patient access challenges. Generative AI was utilized as a technical writing assistant to efficiently generate the structural syntax of the Python code blocks and refine programmatic formatting. All scripts were manually debugged, reviewed and finalized by the author to ensure clinical logic alignment.
