@@ -1,8 +1,11 @@
-# 🩺 Hyperhidrosis Stratification Tool (HST) — Version 4.1
+# 🩺 Hyperhidrosis Stratification Tool (HST) 
 
 An interactive, rule-based medical decision-support dashboard built in Python to algorithmically evaluate and visualize treatment pathway compatibilities for patients experiencing pathological excessive sweating (hyperhidrosis).
 
----
+## Live Interactive Portal
+**Click here to view my application live on the web:** https://hyperhidrosis-stratification-tool-soagnlkj47jxbpvclijnmc.streamlit.app/
+
+
 
 ## 🤖 Engineering & Artificial Intelligence Disclosure
 This application was engineered by translating raw data analysis concepts into a functional web software interface. *Generative Artificial Intelligence was actively leveraged as a collaborative coding partner* to assist in optimizing structural code formatting, debugging deployment configurations, and accelerating the implementation of advanced visualization frameworks (Streamlit and Plotly Express). This project showcases code literacy, prompt engineering proficiency, and the ability to critically review, refactor, and deploy AI-assisted logic into a working, real-world prototype.
