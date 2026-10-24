@@ -121,3 +121,7 @@ with notes_col:
             st.error(f"❌ *{t}*: Dropped via system clinical constraint.")
         else:
             st.success(f"✅ *{t}: Matched at *{r['adjusted']:.1f}%**")
+            st.markdown("---")
+st.subheader("💬 Clinical Logic & UX Feedback")
+st.write("Help refine this independent research tool! As a gap-year student, your insights help me improve this decision-tree logic workflow.")
+st.info("👉 [Click here to share your feedback in a quick anonymous form](https://forms.gle/7WrPnkauozfviTby7)")
